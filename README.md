@@ -2,7 +2,7 @@
 Tarea 3 de Sistemas Operativos
 
 Comandos:
-{
+
   mkdir:
   {
     Desc: Crea directorios
@@ -56,4 +56,4 @@ Comandos:
     Desc: Termina el programa
     Uso: exit
   }
-}
+
